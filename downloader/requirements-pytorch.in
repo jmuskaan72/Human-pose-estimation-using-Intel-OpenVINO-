@@ -1,0 +1,7 @@
+onnx
+scipy           # via torchvision
+torch
+torchvision
+
+# workaround for https://github.com/pytorch/vision/issues/1712
+pillow<7
