@@ -1,0 +1,15 @@
+4.2.0-82-g4de7015cf (OpenVINO/2019R4)
+82
+releases/openvino/2020.1
+4de7015cfd9462cea82eac35007e541d84e23a27
+
+General configuration for OpenCV 4.2.0-openvino =====================================
+  Version control:               4de7015cfd9462cea82eac35007e541d84e23a27
+
+  Platform:
+    Timestamp:                   2020-01-24T11:33:24Z
+    Host:                        Windows 10.0.17763 AMD64
+    CMake:                       3.14.5
+    CMake generator:             Visual Studio 14 2015 Win64
+    CMake build tool:            C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe
+    MSVC:                        1900
