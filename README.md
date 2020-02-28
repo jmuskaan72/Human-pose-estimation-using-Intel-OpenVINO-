@@ -1,6 +1,10 @@
 # Intel-Edge-AI-Basics
 Stay at the cutting-edge of AI technology by gaining practical skills for deploying edge AI using the Intel OpenVINO Toolkit.
 
+## HUMAN POSE ESTIMATION MODEL
+
+For reference : (https://docs.openvinotoolkit.org/latest/_models_intel_human_pose_estimation_0001_description_human_pose_estimation_0001.html)
+
 This is a multi-person 2D pose estimation network (based on the OpenPose approach) with tuned MobileNet v1 as a feature extractor. 
 For every person in an image, the network detects a human pose: a body skeleton consisting of keypoints and connections between them.
 
